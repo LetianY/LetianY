@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m **Letian** @LetianY
 - I’m a final year FinTech undergraduate (Sep 2018 - Dec 2022) at the Department of System Engineering and Engineering Management, Chinese University of Hong Kong.
-- I’m currently working at the Laboratory for AI-Powered Financial Technologies Limited as a Data Science intern.
+- I’m currently working at the data team of the Laboratory for AI-Powered Financial Technologies Limited.
 - I’m interested in the field of optimization and applied mathematics, and plan to persue the ScM Data Science Degree at Brown University in 2023.
 - I'm always passionate and dedicated for data science related projects for social good.
 - Welcome to reach me at letian.yu[at]link.cuhk.edu.hk 📫 
