@@ -9,7 +9,7 @@
 
 [![Letian's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues)](https://github.com/LetianY/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark)
 
 <!---
 LetianY/LetianY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
