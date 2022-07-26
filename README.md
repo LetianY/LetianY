@@ -8,8 +8,10 @@
 > "Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours." -- Hermann Hesse
 
 [![Letian's GitHub stats](https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues)](https://github.com/LetianY/github-readme-stats)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=graywhite&layout=compact)
+
+#### Here I maintain a list of my personal reading each month. I'm happy to discuss more about these topics.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=reading-list)](https://github.com/LetianY/reading-list)
 
 <!---
 LetianY/LetianY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
