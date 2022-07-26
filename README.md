@@ -20,12 +20,14 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=graywhite&layout=compact&count_private=true">
 </a>
 -->
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" alt="letiany" align = "center"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
+<p align="left">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" alt="letiany" align = "center"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
 </p>
 
-**Languages and tools:**  
+
+**Tools & Skillsets:**
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
