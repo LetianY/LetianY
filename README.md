@@ -21,8 +21,8 @@
 </a>
 -->
 <p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" alt="letiany" align = "center"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=contribs,issues" alt="letiany" align = "center"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
 </p>
 
 
