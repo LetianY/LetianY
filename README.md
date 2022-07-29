@@ -14,14 +14,14 @@
 
 <!---
 <a href="https://github.com/LetianY/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=issues">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues">
 </a>
 <a href="https://github.com/LetianY/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact">
 </a>
 -->
 <p align="left">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&show_icons=true&include_all_commits=true&count_private=true&hide=issues" alt="letiany" align = "center"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues" alt="letiany" align = "center"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
 </p>
 
