@@ -12,19 +12,10 @@
 
 ![Snake animation](https://github.com/LetianY/LetianY/blob/output/github-contribution-grid-snake.svg)
 
-<!---
 <a href="https://github.com/LetianY/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&hide=contribs,issues&theme=dark" alt="letiany"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&theme=dark" alt="letiany">
 </a>
-<a href="https://github.com/LetianY/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact">
-</a>
--->
-<p align="left">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&theme=dark&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,issues" alt="letiany" align = "center"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&theme=dark&layout=compact" alt="letiany" align = "center"/>
-</p>
-
 
 **Tools & Skillsets:**
 
