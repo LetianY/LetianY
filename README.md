@@ -1,4 +1,4 @@
-### 👋 Hi, I’m **Letian** @LetianY
+### Hi, I’m **Letian** @LetianY
 - I’m a final year FinTech undergraduate (Sep 2018 - Dec 2022) at the Department of System Engineering and Engineering Management, Chinese University of Hong Kong.
 - I’m currently working at the data team of the Laboratory for AI-Powered Financial Technologies Limited **[HKAIFT](http://hkaift.com/)**.
 - I'm interested in the field of optimization and applied mathematics, and plan to persue the ScM Data Science Degree at Brown University in 2023.
