@@ -2,7 +2,7 @@
 - I’m a final year FinTech undergraduate (Sep 2018 - Dec 2022) at the Department of System Engineering and Engineering Management, Chinese University of Hong Kong.
 - I’m currently working at the data team of the Laboratory for AI-Powered Financial Technologies Limited **[HKAIFT](http://hkaift.com/)**.
 - I'm interested in the field of optimization and applied mathematics, and plan to persue the ScM Data Science Degree at Brown University in 2023.
-- I used to be a member and contributor of **[WISE CUHK](http://wiselug.com/)** to share ideas and spread knowledge with peers at CUHK. And I'm always passionate about and dedicated to data science related projects for social good. Here is my **[kaggle page](https://www.kaggle.com/letianyu)** and **[leetcode page](https://leetcode.com/DawnEureka/)**.
+- I used to be a member and contributor of **[WISE CUHK](http://wiselug.com/)** to share ideas and spread knowledge with peers at CUHK. And I'm always passionate about and dedicated to data science related projects for social good. Here is my **[kaggle page](https://www.kaggle.com/letianyu)** and **[leetcode page](https://leetcode.com/DawnEureka/)**. Join this [telegram channel](https://t.me/%20QqWKFEImyq8wZjY1) for my personal machine learning & data science knowledge sharing if you are interested.
 - Welcome to reach me at letian.yu[at]link.cuhk.edu.hk 📫 
 
 #### Here I maintain a list of my personal reading each month. I'm happy to discuss more about these topics.
