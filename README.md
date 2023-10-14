@@ -1,5 +1,5 @@
 ### Hi, I’m **Letian** @LetianY
-- ScM Data Science student at Brown University (Sep 2023 - Aug 2025).
+- ScM Data Science student at Brown University (Sep 2023 - May 2025).
 - Bachelor of Engineering in FinTech at the Chinese University of Hong Kong (Sep 2018 - Dec 2022).
 - After obtaining my Bachelor's degree, I worked at Natixis APAC Data & Innovation - Centre of Excellence as Data Science Trainee (Mar to July 2023). My first internship was at the data team of the Laboratory for AI-Powered Financial Technologies Limited **[(HKAIFT)](http://hkaift.com/)** from Mar to Dec 2022.
 - I am super interested in the field of optimization and applied mathematics!
