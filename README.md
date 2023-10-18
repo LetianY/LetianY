@@ -16,12 +16,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&hide_progress=true&border_color=2e4058" alt="letiany">
 </a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 **Tools & Skillsets:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
