@@ -11,7 +11,11 @@
 
 > "Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours." -- Hermann Hesse
 
-![Snake animation](https://github.com/LetianY/LetianY/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 <a href="https://github.com/LetianY/github-readme-stats">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&hide=issues&rank_icon=github&include_all_commits=true&border_color=2e4058" alt="letiany"/>
