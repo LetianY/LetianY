@@ -14,8 +14,8 @@
 ![Snake animation](https://github.com/LetianY/LetianY/blob/output/github-contribution-grid-snake.svg)
 
 <a href="https://github.com/LetianY/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&hide=issues&theme=dark" alt="letiany"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&theme=dark" alt="letiany">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&hide=issues&rank_icon=github&include_all_commits=true&border_color=2e4058" alt="letiany"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&hide_progress=true&border_color=2e4058" alt="letiany">
 </a>
 
 **Tools & Skillsets:**
