@@ -16,6 +16,8 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&hide_progress=true&border_color=2e4058&theme=graywhite" alt="letiany">
 </a>
 
+![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LetianY&theme=nord_bright)
+
 **Tools & Skillsets:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
