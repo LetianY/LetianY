@@ -12,7 +12,7 @@
 > "Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours." -- Hermann Hesse
 
 <a href="https://github.com/LetianY/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&hide=issues&rank_icon=github&border_color=2e4058&theme=vue" alt="letiany"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LetianY&show_icons=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&border_color=2e4058&theme=vue" alt="letiany"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetianY&layout=compact&hide_progress=true&border_color=2e4058&theme=graywhite" alt="letiany">
 </a>
 
