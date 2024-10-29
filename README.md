@@ -51,7 +51,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=ancient-chinese-machine-translation&theme=vue)](https://github.com/LetianY/ancient-chinese-machine-translation)
 
-3. **csci1450  Advanced Intro to Probability for Computing and Data Science:**
+- **csci1450  Advanced Intro to Probability for Computing and Data Science:**
 
 *Assignment codes related to probability (e.g., Bayes Classifier, probability distributions).*
 
