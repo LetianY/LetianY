@@ -55,7 +55,7 @@
 
 *Assignment codes related to probability (e.g., Bayes Classifier, probability distributions).*
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=csci1450-homework&theme=vue)](https://github.com/LetianY/csci1450-homework)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=AC215_1nvestSense&theme=vue)](https://github.com/LetianY/AC215_1nvestSense)
 
 - **APCOMP215 Advanced Practical Data Science - MLOps / Productionizing AI:**
 
