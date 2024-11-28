@@ -57,6 +57,12 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=csci1450-homework&theme=vue)](https://github.com/LetianY/csci1450-homework)
 
+- **APCOMP215 Advanced Practical Data Science - MLOps / Productionizing AI:**
+
+*1nvestSense is an AI-powered application that leverages LLMs and RAG techniques to deliver real-time, actionable insights for retail investors. Key tech stacks: docker container, Google Cloud Platform, Kubernetes, LLM finetuning & RAG, data versioning with DVC, CI/CD with automated testing, frontend development with React, backend with fastapi. The repository is currently private.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=csci1450-homework&theme=vue)](https://github.com/LetianY/csci1450-homework)
+
 <!---
 LetianY/LetianY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
