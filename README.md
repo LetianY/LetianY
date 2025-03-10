@@ -4,7 +4,7 @@
 - Last summer, I was at Goldman Sachs FICC & Equity quant strats team (June to August 2024). After obtaining my Bachelor's degree, I worked at Natixis APAC Data & Innovation - Centre of Excellence as Data Science Trainee (Mar to July 2023). My first internship was at the data team of the Laboratory for AI-Powered Financial Technologies Limited **[(HKAIFT)](http://hkaift.com/)** from Mar to Dec 2022.
 - I am super interested in the field of machine learning, optimization and applied mathematics!
 - I used to be a member and contributor of **[WISE CUHK](http://wiselug.com/)** to share ideas and spread knowledge with peers at CUHK. And I'm always passionate about and dedicated to data science related projects for social good. Here is my **[kaggle page](https://www.kaggle.com/letianyu)** and **[leetcode page](https://leetcode.com/DawnEureka/)**. Join this **[telegram channel](https://t.me/%20QqWKFEImyq8wZjY1)** for my personal machine learning & data science knowledge sharing if you are interested.
-- Some of my favorite artists & writers: Ryuichi Sakamoto, Camus, Rilke, Krishnamurti, Pina, the Beatles. I am into contemporary dance and photograph these years. Drop me your favorite song!
+- Some of my favorite artists & writers: Ryuichi Sakamoto, Camus, Rilke, Krishnamurti, Pina, the Beatles. I am into contemporary dance and photograph these years.
 - Welcome to reach me at letian_yu[at]brown.edu 📫
 
 #### Here I maintain a list of my personal reading each month. I'm happy to discuss more about these topics.
