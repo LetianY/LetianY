@@ -91,7 +91,7 @@
 
 - **APCOMP215 Advanced Practical Data Science - MLOps / Productionizing AI:**
 
-*1nvestSense is an AI-powered application that leverages LLMs and RAG techniques to deliver real-time, actionable insights for retail investors. Key tech stacks: docker container, Google Cloud Platform, Kubernetes, LLM finetuning & RAG, data versioning with DVC, CI/CD with automated testing, frontend development with React, backend with fastapi. The repository is currently private.*
+*[1nvestSense](https://www.1nvestsense.com) is an AI-powered application that leverages LLMs and RAG techniques to deliver real-time, actionable insights for retail investors. Key tech stacks: docker container, Google Cloud Platform, Kubernetes, LLM finetuning & RAG, data versioning with DVC, CI/CD with automated testing, frontend development with React, backend with fastapi. The repository is currently private.*
 
 
 <!---
