@@ -1,7 +1,7 @@
 ### Hi, I’m **Letian** @LetianY
 - ScM Data Science student at Brown University (Sep 2023 - May 2025).
 - Bachelor of Engineering in FinTech at the Chinese University of Hong Kong (Sep 2018 - Dec 2022).
-- Last summer, I was at Goldman Sachs FICC & Equity quant strats team (June to August 2024). After obtaining my Bachelor's degree, I worked at Natixis APAC Data & Innovation - Centre of Excellence as Data Science Trainee (Mar to July 2023). My first internship was at the data team of the Laboratory for AI-Powered Financial Technologies Limited (HKAIFT) from Mar to Dec 2022.
+- I am now a full-time quant strategist at Goldman Sachs Equities Synthetic Products Group. After obtaining my Bachelor's degree, I worked at Natixis APAC Data & Innovation - Centre of Excellence as Data Science Trainee (Mar to July 2023). My first internship was at the data team of the Laboratory for AI-Powered Financial Technologies Limited (HKAIFT) from Mar to Dec 2022.
 - I am super interested in the field of machine learning, optimization and applied mathematics!
 - I used to be a member and contributor of **[WISE CUHK](https://wisecuhk.github.io/)** to share ideas and spread knowledge with peers at CUHK. And I'm always passionate about and dedicated to data science related projects for social good. Join this **[telegram channel](https://t.me/%20QqWKFEImyq8wZjY1)** for my personal machine learning & data science knowledge sharing if you are interested.
 - Some of my favorite artists & writers: Ryuichi Sakamoto, Camus, Rilke, Krishnamurti, Pina, the Beatles. I am into contemporary dance and photograph these years.
@@ -89,10 +89,15 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LetianY&repo=csci1450-homework&theme=vue)](https://github.com/LetianY/csci1450-homework)
 
+- **data2050 Data Practicum:**
+
+*This is my capstone project on algorithmic fairness. This project seeks to evaluate the contexts in which BISG can be trusted, explore alternative proxy estimation methods, and test the robustness of various proxy estimation methods under varying conditions for surname and geocode. In doing so, the project aims to enhance the reliability of bias detection in algorithmic decision-making and ensure more transparent, equitable outcomes in public and regulatory settings.*
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=brown-cntr&repo=RaceProxyBench&theme=vue)](https://github.com/brown-cntr/RaceProxyBench)
+
 - **APCOMP215 Advanced Practical Data Science - MLOps / Productionizing AI:**
 
 *[1nvestSense](https://www.1nvestsense.com) is an AI-powered application that leverages LLMs and RAG techniques to deliver real-time, actionable insights for retail investors. Key tech stacks: docker container, Google Cloud Platform, Kubernetes, LLM finetuning & RAG, data versioning with DVC, CI/CD with automated testing, frontend development with React, backend with fastapi. The repository is currently private.*
-
 
 <!---
 LetianY/LetianY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
