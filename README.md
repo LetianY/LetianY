@@ -5,7 +5,7 @@
 - I am super interested in the field of machine learning, optimization and applied mathematics!
 - I used to be a member and contributor of **[WISE CUHK](https://wisecuhk.github.io/)** to share ideas and spread knowledge with peers at CUHK. And I'm always passionate about and dedicated to data science related projects for social good. Join this **[telegram channel](https://t.me/%20QqWKFEImyq8wZjY1)** for my personal machine learning & data science knowledge sharing if you are interested.
 - Some of my favorite artists & writers: Ryuichi Sakamoto, Camus, Rilke, Krishnamurti, Pina, the Beatles. I am into contemporary dance and photograph these years.
-- Welcome to reach me at letian_yu[at]brown.edu 📫
+- Welcome to reach me at letian_yu[at]alumni.brown.edu 📫
 
 > "Whoever wants music instead of noise, joy instead of pleasure, soul instead of gold, creative work instead of business, passion instead of foolery, finds no home in this trivial world of ours." -- Hermann Hesse
 
@@ -24,6 +24,8 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![kdb+/q](https://img.shields.io/badge/kdb+-004280?style=flat&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBoMTJ2MjRIMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
 
 - Python Packages:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -47,7 +49,10 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) 
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Devin AI](https://img.shields.io/badge/Devin_AI-10A37F?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDBoMTJ2MjRIMHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4=&logoColor=white)
+
 
 - Data Science Tools:
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat&logo=apachespark&logoColor=black) 
@@ -56,6 +61,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=flat&logo=tableau&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=flat&logo=snowflake&logoColor=white)
+![Lakehouse](https://img.shields.io/badge/databricks-%23FF3621.svg?style=flat&logo=databricks&logoColor=white)
 
 - Design & Collaboration:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) 
